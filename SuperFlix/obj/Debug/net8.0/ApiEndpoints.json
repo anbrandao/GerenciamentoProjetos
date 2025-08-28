@@ -1,0 +1,364 @@
+[
+  {
+    "ContainingType": "ControleColaboradores.Controllers.ColaboradoresController",
+    "Method": "GetColaboradores",
+    "RelativePath": "Colaboradores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.ICollection\u00601[[ControleProjetos.Data.Dtos.ColaboradorDto.ReadColaboradorDto, ControleProjetos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ControleColaboradores.Controllers.ColaboradoresController",
+    "Method": "PostFilme",
+    "RelativePath": "Colaboradores",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createColaboradorDto",
+        "Type": "ControleProjetos.Data.Dtos.ColaboradorDto.CreateColaboradorDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleColaboradores.Controllers.ColaboradoresController",
+    "Method": "GetColaborador",
+    "RelativePath": "Colaboradores/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleColaboradores.Controllers.ColaboradoresController",
+    "Method": "DeleteFilme",
+    "RelativePath": "Colaboradores/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleColaboradores.Controllers.ColaboradoresController",
+    "Method": "GetDetalhesDoProjeto",
+    "RelativePath": "Colaboradores/colaborador/detalhe/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleColaboradores.Controllers.ColaboradoresController",
+    "Method": "GetProjetosDosColaborador",
+    "RelativePath": "Colaboradores/colaborador/projetos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleProjetos.Controllers.ColaboradoresProjetosController",
+    "Method": "GetColaboradoresProjetos",
+    "RelativePath": "ColaboradoresProjetos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.ICollection\u00601[[ControleProjetos.Data.Dtos.ColaboradoresProjetosDto.ReadColaboradoresProjetosDto, ControleProjetos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ControleProjetos.Controllers.ColaboradoresProjetosController",
+    "Method": "PostColaboradoresProjetos",
+    "RelativePath": "ColaboradoresProjetos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createColaboradoresProjetos",
+        "Type": "ControleProjetos.Data.Dtos.ColaboradoresProjetosDto.CreateColaboradoresProjetosDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleProjetos.Controllers.ColaboradoresProjetosController",
+    "Method": "GetColaboradoresProjetos",
+    "RelativePath": "ColaboradoresProjetos/{colaboradorId}/{projetoId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "colaboradorId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "projetoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleProjetos.Controllers.ColaboradoresProjetosController",
+    "Method": "DeleteColaboradoresProjetos",
+    "RelativePath": "ColaboradoresProjetos/{colaboradorId}/{projetoId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "colaboradorId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "projetoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleProjetos.Controllers.DiretoriasController",
+    "Method": "GetDiretorias",
+    "RelativePath": "Diretorias",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.ICollection\u00601[[ControleProjetos.Data.Dtos.DiretoriaDto.ReadDiretoriaDto, ControleProjetos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ControleProjetos.Controllers.DiretoriasController",
+    "Method": "PostDiretoria",
+    "RelativePath": "Diretorias",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createDiretoriaDto",
+        "Type": "ControleProjetos.Data.Dtos.DiretoriaDto.CreateDiretoriaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleProjetos.Controllers.DiretoriasController",
+    "Method": "GetDiretoria",
+    "RelativePath": "Diretorias/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleProjetos.Controllers.DiretoriasController",
+    "Method": "DeleteDiretoria",
+    "RelativePath": "Diretorias/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleProjetos.Controllers.DiretoriasController",
+    "Method": "GetColaboradoresDaDiretoria",
+    "RelativePath": "Diretorias/diretoria/colaboradoresDaDiretoria/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleProjetos.Controllers.DiretoriasController",
+    "Method": "GetDetalhesDaDiretoria",
+    "RelativePath": "Diretorias/diretoria/detalhes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleProjetos.Controllers.ProjetosController",
+    "Method": "GetProjetos",
+    "RelativePath": "Projetos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.ICollection\u00601[[ControleProjetos.Data.Dtos.FilmeDto.ReadProjetoDto, ControleProjetos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ControleProjetos.Controllers.ProjetosController",
+    "Method": "PostFilme",
+    "RelativePath": "Projetos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createProjetoDto",
+        "Type": "ControleProjetos.Data.Dtos.FilmeDto.CreateProjetoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleProjetos.Controllers.ProjetosController",
+    "Method": "GetFilme",
+    "RelativePath": "Projetos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleProjetos.Controllers.ProjetosController",
+    "Method": "DeleteFilme",
+    "RelativePath": "Projetos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleProjetos.Controllers.ProjetosController",
+    "Method": "GetDetalhesDoProjeto",
+    "RelativePath": "Projetos/projeto/detalhe/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

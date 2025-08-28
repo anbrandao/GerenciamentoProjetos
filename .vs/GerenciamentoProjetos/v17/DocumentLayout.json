@@ -1,0 +1,607 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repos\\SuperFlix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F6770C-B900-44CE-A70C-D1B4F34E7614}|ControleProjetos.Test\\ControleProjetos.Test.csproj|c:\\repos\\superflix\\controleprojetos.test\\colaboradorconstrutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F6770C-B900-44CE-A70C-D1B4F34E7614}|ControleProjetos.Test\\ControleProjetos.Test.csproj|solutionrelative:controleprojetos.test\\colaboradorconstrutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\models\\diretoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\models\\diretoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\models\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\models\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\models\\colaboradoresprojetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\models\\colaboradoresprojetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\repositories\\repository\\diretoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\repositories\\repository\\diretoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\repositories\\repository\\colaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\repositories\\repository\\colaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\migrations\\20250827211100_addduracaonomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\migrations\\20250827211100_addduracaonomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\data\\dtos\\projetodto\\readprojetodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\data\\dtos\\projetodto\\readprojetodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\data\\dtos\\projetodto\\createprojetodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\data\\dtos\\projetodto\\createprojetodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\repositories\\repository\\projetorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\repositories\\repository\\projetorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\controllers\\colaboradorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\controllers\\colaboradorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\repositories\\contracts\\icolaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\repositories\\contracts\\icolaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\data\\dtos\\colaboradordto\\readcolaboradordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\data\\dtos\\colaboradordto\\readcolaboradordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\data\\dtos\\colaboradoresprojetosdto\\readcolaboradoresprojetosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\data\\dtos\\colaboradoresprojetosdto\\readcolaboradoresprojetosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\controllers\\projetoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\controllers\\projetoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\controllers\\diretoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\controllers\\diretoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\controllers\\colaboradoresprojetoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\controllers\\colaboradoresprojetoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\repositories\\contracts\\idiretoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\repositories\\contracts\\idiretoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\repositories\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\repositories\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\repositories\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\repositories\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\data\\dtos\\diretoriadto\\readdiretoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\data\\dtos\\diretoriadto\\readdiretoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\migrations\\20250827193644_deletebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\migrations\\20250827193644_deletebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\data\\dtos\\colaboradordto\\createcolaboradordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\data\\dtos\\colaboradordto\\createcolaboradordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\data\\dtos\\diretoriadto\\creatediretoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\data\\dtos\\diretoriadto\\creatediretoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\data\\dtos\\colaboradoresprojetosdto\\createcolaboradoresprojetosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\data\\dtos\\colaboradoresprojetosdto\\createcolaboradoresprojetosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\repositories\\repository\\colaboradoresprojetosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\repositories\\repository\\colaboradoresprojetosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\repositories\\contracts\\icolaboradoresprojetosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\repositories\\contracts\\icolaboradoresprojetosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\repositories\\contracts\\iprojetorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\repositories\\contracts\\iprojetorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\profiles\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\profiles\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\migrations\\20250826180548_tabelainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\migrations\\20250826180548_tabelainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Diretoria.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Models\\Diretoria.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Models\\Diretoria.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Models\\Diretoria.cs",
+              "RelativeToolTip": "SuperFlix\\Models\\Diretoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:33:02.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Colaborador.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Models\\Colaborador.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Models\\Colaborador.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Models\\Colaborador.cs",
+              "RelativeToolTip": "SuperFlix\\Models\\Colaborador.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:33:13.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ColaboradoresProjetos.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Models\\ColaboradoresProjetos.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Models\\ColaboradoresProjetos.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Models\\ColaboradoresProjetos.cs",
+              "RelativeToolTip": "SuperFlix\\Models\\ColaboradoresProjetos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:49:25.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DiretoriaRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Repositories\\Repository\\DiretoriaRepository.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Repositories\\Repository\\DiretoriaRepository.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Repositories\\Repository\\DiretoriaRepository.cs",
+              "RelativeToolTip": "SuperFlix\\Repositories\\Repository\\DiretoriaRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIA6wCMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:52:50.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColaboradorConstrutor.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\ControleProjetos.Test\\ColaboradorConstrutor.cs",
+              "RelativeDocumentMoniker": "ControleProjetos.Test\\ColaboradorConstrutor.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\ControleProjetos.Test\\ColaboradorConstrutor.cs",
+              "RelativeToolTip": "ControleProjetos.Test\\ColaboradorConstrutor.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:40:38.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Projeto.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Models\\Projeto.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Models\\Projeto.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Models\\Projeto.cs",
+              "RelativeToolTip": "SuperFlix\\Models\\Projeto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:34:15.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ColaboradorRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Repositories\\Repository\\ColaboradorRepository.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Repositories\\Repository\\ColaboradorRepository.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Repositories\\Repository\\ColaboradorRepository.cs",
+              "RelativeToolTip": "SuperFlix\\Repositories\\Repository\\ColaboradorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:52:00.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250827211100_addDuracaoNoModelo.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Migrations\\20250827211100_addDuracaoNoModelo.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Migrations\\20250827211100_addDuracaoNoModelo.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Migrations\\20250827211100_addDuracaoNoModelo.cs",
+              "RelativeToolTip": "SuperFlix\\Migrations\\20250827211100_addDuracaoNoModelo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:11:00.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReadProjetoDto.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Data\\Dtos\\ProjetoDto\\ReadProjetoDto.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Data\\Dtos\\ProjetoDto\\ReadProjetoDto.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Data\\Dtos\\ProjetoDto\\ReadProjetoDto.cs",
+              "RelativeToolTip": "SuperFlix\\Data\\Dtos\\ProjetoDto\\ReadProjetoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T17:13:07.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateProjetoDto.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Data\\Dtos\\ProjetoDto\\CreateProjetoDto.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Data\\Dtos\\ProjetoDto\\CreateProjetoDto.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Data\\Dtos\\ProjetoDto\\CreateProjetoDto.cs",
+              "RelativeToolTip": "SuperFlix\\Data\\Dtos\\ProjetoDto\\CreateProjetoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:33:36.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjetoRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Repositories\\Repository\\ProjetoRepository.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Repositories\\Repository\\ProjetoRepository.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Repositories\\Repository\\ProjetoRepository.cs",
+              "RelativeToolTip": "SuperFlix\\Repositories\\Repository\\ProjetoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:58:08.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ColaboradoresController.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Controllers\\ColaboradoresController.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Controllers\\ColaboradoresController.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Controllers\\ColaboradoresController.cs",
+              "RelativeToolTip": "SuperFlix\\Controllers\\ColaboradoresController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAkwFwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T19:40:15.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IColaboradorRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Repositories\\Contracts\\IColaboradorRepository.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Repositories\\Contracts\\IColaboradorRepository.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Repositories\\Contracts\\IColaboradorRepository.cs",
+              "RelativeToolTip": "SuperFlix\\Repositories\\Contracts\\IColaboradorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:51:05.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReadColaboradorDto.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Data\\Dtos\\ColaboradorDto\\ReadColaboradorDto.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Data\\Dtos\\ColaboradorDto\\ReadColaboradorDto.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Data\\Dtos\\ColaboradorDto\\ReadColaboradorDto.cs",
+              "RelativeToolTip": "SuperFlix\\Data\\Dtos\\ColaboradorDto\\ReadColaboradorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:59:59.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReadColaboradoresProjetosDto.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Data\\Dtos\\ColaboradoresProjetosDto\\ReadColaboradoresProjetosDto.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Data\\Dtos\\ColaboradoresProjetosDto\\ReadColaboradoresProjetosDto.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Data\\Dtos\\ColaboradoresProjetosDto\\ReadColaboradoresProjetosDto.cs",
+              "RelativeToolTip": "SuperFlix\\Data\\Dtos\\ColaboradoresProjetosDto\\ReadColaboradoresProjetosDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T17:15:48.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProjetosController.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Controllers\\ProjetosController.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Controllers\\ProjetosController.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Controllers\\ProjetosController.cs",
+              "RelativeToolTip": "SuperFlix\\Controllers\\ProjetosController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:56:45.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DiretoriasController.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Controllers\\DiretoriasController.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Controllers\\DiretoriasController.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Controllers\\DiretoriasController.cs",
+              "RelativeToolTip": "SuperFlix\\Controllers\\DiretoriasController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAkwIQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T17:50:54.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ColaboradoresProjetosController.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Controllers\\ColaboradoresProjetosController.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Controllers\\ColaboradoresProjetosController.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Controllers\\ColaboradoresProjetosController.cs",
+              "RelativeToolTip": "SuperFlix\\Controllers\\ColaboradoresProjetosController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T18:28:41.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IDiretoriaRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Repositories\\Contracts\\IDiretoriaRepository.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Repositories\\Contracts\\IDiretoriaRepository.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Repositories\\Contracts\\IDiretoriaRepository.cs",
+              "RelativeToolTip": "SuperFlix\\Repositories\\Contracts\\IDiretoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:50:29.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Repositories\\Contracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Repositories\\Contracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Repositories\\Contracts\\IGenericRepository.cs",
+              "RelativeToolTip": "SuperFlix\\Repositories\\Contracts\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:58:05.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Repositories\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Repositories\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Repositories\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "SuperFlix\\Repositories\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:24:21.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReadDiretoriaDto.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Data\\Dtos\\DiretoriaDto\\ReadDiretoriaDto.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Data\\Dtos\\DiretoriaDto\\ReadDiretoriaDto.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Data\\Dtos\\DiretoriaDto\\ReadDiretoriaDto.cs",
+              "RelativeToolTip": "SuperFlix\\Data\\Dtos\\DiretoriaDto\\ReadDiretoriaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T17:03:52.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SuperFlix\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:33:46.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250827193644_deleteBehavior.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Migrations\\20250827193644_deleteBehavior.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Migrations\\20250827193644_deleteBehavior.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Migrations\\20250827193644_deleteBehavior.cs",
+              "RelativeToolTip": "SuperFlix\\Migrations\\20250827193644_deleteBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T19:36:44.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateColaboradorDto.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Data\\Dtos\\ColaboradorDto\\CreateColaboradorDto.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Data\\Dtos\\ColaboradorDto\\CreateColaboradorDto.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Data\\Dtos\\ColaboradorDto\\CreateColaboradorDto.cs",
+              "RelativeToolTip": "SuperFlix\\Data\\Dtos\\ColaboradorDto\\CreateColaboradorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T19:31:30.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateDiretoriaDto.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Data\\Dtos\\DiretoriaDto\\CreateDiretoriaDto.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Data\\Dtos\\DiretoriaDto\\CreateDiretoriaDto.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Data\\Dtos\\DiretoriaDto\\CreateDiretoriaDto.cs",
+              "RelativeToolTip": "SuperFlix\\Data\\Dtos\\DiretoriaDto\\CreateDiretoriaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T17:05:38.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateColaboradoresProjetosDto.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Data\\Dtos\\ColaboradoresProjetosDto\\CreateColaboradoresProjetosDto.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Data\\Dtos\\ColaboradoresProjetosDto\\CreateColaboradoresProjetosDto.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Data\\Dtos\\ColaboradoresProjetosDto\\CreateColaboradoresProjetosDto.cs",
+              "RelativeToolTip": "SuperFlix\\Data\\Dtos\\ColaboradoresProjetosDto\\CreateColaboradoresProjetosDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T17:16:50.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ColaboradoresProjetosRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Repositories\\Repository\\ColaboradoresProjetosRepository.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Repositories\\Repository\\ColaboradoresProjetosRepository.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Repositories\\Repository\\ColaboradoresProjetosRepository.cs",
+              "RelativeToolTip": "SuperFlix\\Repositories\\Repository\\ColaboradoresProjetosRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:52:24.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IColaboradoresProjetosRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Repositories\\Contracts\\IColaboradoresProjetosRepository.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Repositories\\Contracts\\IColaboradoresProjetosRepository.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Repositories\\Contracts\\IColaboradoresProjetosRepository.cs",
+              "RelativeToolTip": "SuperFlix\\Repositories\\Contracts\\IColaboradoresProjetosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:51:33.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IProjetoRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Repositories\\Contracts\\IProjetoRepository.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Repositories\\Contracts\\IProjetoRepository.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Repositories\\Contracts\\IProjetoRepository.cs",
+              "RelativeToolTip": "SuperFlix\\Repositories\\Contracts\\IProjetoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:58:15.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SuperFlix\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SuperFlix\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T19:54:31.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Program.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Program.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Program.cs",
+              "RelativeToolTip": "SuperFlix\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T17:24:06.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SuperFlix\\appsettings.Development.json",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\appsettings.Development.json",
+              "RelativeToolTip": "SuperFlix\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T19:54:16.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\appsettings.json",
+              "RelativeDocumentMoniker": "SuperFlix\\appsettings.json",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\appsettings.json",
+              "RelativeToolTip": "SuperFlix\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAADtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T18:04:27.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MapperConfig.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Profiles\\MapperConfig.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Profiles\\MapperConfig.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Profiles\\MapperConfig.cs",
+              "RelativeToolTip": "SuperFlix\\Profiles\\MapperConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:33:40.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250826180548_TabelaInicial.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Migrations\\20250826180548_TabelaInicial.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\Migrations\\20250826180548_TabelaInicial.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\Migrations\\20250826180548_TabelaInicial.cs",
+              "RelativeToolTip": "SuperFlix\\Migrations\\20250826180548_TabelaInicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:05:49.002Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
