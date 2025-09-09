@@ -1,4 +1,4 @@
-﻿using ControleProjetos.Models;
+﻿using ControleProjetos.Projetos;
 
 namespace ControleProjetos.Repositories.Contracts
 {

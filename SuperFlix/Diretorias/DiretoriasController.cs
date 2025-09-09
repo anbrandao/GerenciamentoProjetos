@@ -1,15 +1,15 @@
 ﻿using AutoMapper;
 using ControleProjetos.Data.Dtos.ColaboradorDto;
 using ControleProjetos.Data.Dtos.DiretoriaDto;
-using ControleProjetos.Models;
 using ControleProjetos.Repositories.Contracts;
 using ControleProjetos.Repositories.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ControleProjetos.Controllers
-{
-    [Route("[controller]")]
+namespace ControleProjetos.Diretorias
+{   
     [ApiController]
+    [Route("[controller]")]
     public class DiretoriasController : ControllerBase
     {
     
@@ -34,6 +34,7 @@ namespace ControleProjetos.Controllers
 
         // GET: api/Diretorias/5
         [HttpGet("{id}")]
+        //[ValidateAntiForgeryToken]
         public async Task<IResult> GetDiretoria(int id)
         {
             var diretoria = await _diretoriaRepository.GetAsync(id);
@@ -80,6 +81,7 @@ namespace ControleProjetos.Controllers
         // POST: api/Diretorias
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
+        //[ValidateAntiForgeryToken]
         public async Task<IResult> PostDiretoria([FromBody] CreateDiretoriaDto createDiretoriaDto)
         {
             var diretoria = _mapper.Map<Diretoria>(createDiretoriaDto);
@@ -117,7 +119,7 @@ namespace ControleProjetos.Controllers
                 return Results.NotFound();
             }
             var readDiretoriaDto = _mapper.Map<ReadDiretoriaDto>(diretoria);
-            return Results.Ok( readDiretoriaDto);
+            return Results.Ok(readDiretoriaDto);
         }
 
         [HttpGet("diretoria/colaboradoresDaDiretoria/{id}")]

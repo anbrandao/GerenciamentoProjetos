@@ -1,7 +1,5 @@
-﻿
-
-using ControleProjetos.Data;
-using ControleProjetos.Models;
+﻿using ControleProjetos.Infraestrutura;
+using ControleProjetos.Projetos;
 using ControleProjetos.Repositories.Contracts;
 using Microsoft.EntityFrameworkCore;
 

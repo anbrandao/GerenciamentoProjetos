@@ -1,11 +1,11 @@
 ﻿using AutoMapper;
 using ControleProjetos.Data.Dtos.ColaboradorDto;
-using ControleProjetos.Data.Dtos.FilmeDto;
-using ControleProjetos.Models;
+using ControleProjetos.Data.Dtos.ProjetoDto;
 using ControleProjetos.Repositories.Contracts;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ControleColaboradores.Controllers
+namespace ControleProjetos.Colaboradores
 {
     [Route("[controller]")]
     [ApiController]
@@ -20,11 +20,21 @@ namespace ControleColaboradores.Controllers
             _mapper = mapper;
         }
         [HttpGet]
+        [Authorize(Policy = "Admin")]
+        [Authorize(Roles = "Admin")]
         public async Task<ICollection<ReadColaboradorDto>> GetColaboradores()
         {
-            var listaDeColaboradores = await _colaboradorRepository.GetAllAsync();
-            var listaDecolaboradorsMapeadosParaReadColaboradorsDtos = _mapper.Map<ICollection<ReadColaboradorDto>>(listaDeColaboradores);
-            return listaDecolaboradorsMapeadosParaReadColaboradorsDtos;
+            try
+            {
+                var listaDeColaboradores = await _colaboradorRepository.GetAllAsync();
+                var listaDecolaboradorsMapeadosParaReadColaboradorsDtos = _mapper.Map<ICollection<ReadColaboradorDto>>(listaDeColaboradores);
+                return listaDecolaboradorsMapeadosParaReadColaboradorsDtos;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+           
         }
 
         // GET: api/Filmes/5

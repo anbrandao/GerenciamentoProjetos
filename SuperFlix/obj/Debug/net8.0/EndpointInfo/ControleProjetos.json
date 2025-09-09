@@ -1,8 +1,18 @@
 {
-  "openapi": "3.0.1",
+  "openapi": "3.0.4",
   "info": {
-    "title": "ControleProjetos",
-    "version": "1.0"
+    "title": "API Projetos",
+    "description": "Esta é uma API exemplo para demonstrar Swagger",
+    "contact": {
+      "name": "Andre C Brandao",
+      "url": "https://www.epe.gov.br/pt",
+      "email": "andre.brandao@epe.gov.br"
+    },
+    "license": {
+      "name": "Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+    },
+    "version": "v1"
   },
   "paths": {
     "/Colaboradores": {
@@ -581,16 +591,82 @@
           }
         }
       }
+    },
+    "/Usuario/cadastro": {
+      "post": {
+        "tags": [
+          "Usuario"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateUsuarioDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateUsuarioDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateUsuarioDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Usuario/login": {
+      "post": {
+        "tags": [
+          "Usuario"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginUsuarioDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginUsuarioDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginUsuarioDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {
     "schemas": {
       "CreateColaboradorDto": {
+        "required": [
+          "diretoriaId",
+          "NomeJSONTeste"
+        ],
         "type": "object",
         "properties": {
-          "nome": {
-            "type": "string",
-            "nullable": true
+          "NomeJSONTeste": {
+            "minLength": 1,
+            "type": "string"
           },
           "diretoriaId": {
             "type": "integer",
@@ -600,6 +676,10 @@
         "additionalProperties": false
       },
       "CreateColaboradoresProjetosDto": {
+        "required": [
+          "colaboradorId",
+          "projetoId"
+        ],
         "type": "object",
         "properties": {
           "colaboradorId": {
@@ -614,25 +694,84 @@
         "additionalProperties": false
       },
       "CreateDiretoriaDto": {
+        "required": [
+          "nome"
+        ],
         "type": "object",
         "properties": {
           "nome": {
-            "type": "string",
-            "nullable": true
+            "minLength": 1,
+            "type": "string"
           }
         },
         "additionalProperties": false
       },
       "CreateProjetoDto": {
+        "required": [
+          "duracao",
+          "titulo"
+        ],
         "type": "object",
         "properties": {
           "titulo": {
-            "type": "string",
-            "nullable": true
+            "minLength": 1,
+            "type": "string"
           },
           "duracao": {
             "type": "integer",
             "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CreateUsuarioDto": {
+        "required": [
+          "password",
+          "repassword",
+          "role",
+          "userName"
+        ],
+        "type": "object",
+        "properties": {
+          "userName": {
+            "minLength": 1,
+            "type": "string",
+            "format": "email"
+          },
+          "password": {
+            "minLength": 1,
+            "type": "string",
+            "format": "password"
+          },
+          "dataNascimento": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "repassword": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "role": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "LoginUsuarioDto": {
+        "required": [
+          "password",
+          "userName"
+        ],
+        "type": "object",
+        "properties": {
+          "userName": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "password": {
+            "minLength": 1,
+            "type": "string"
           }
         },
         "additionalProperties": false
@@ -731,6 +870,19 @@
         },
         "additionalProperties": false
       }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "apiKey",
+        "description": "Insira o token JWT desta forma: Bearer {seu token}",
+        "name": "Authorization",
+        "in": "header"
+      }
     }
-  }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
 }

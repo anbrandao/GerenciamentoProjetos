@@ -1,5 +1,5 @@
 ﻿using ControleProjetos.Data.Dtos.ColaboradorDto;
-using ControleProjetos.Data.Dtos.FilmeDto;
+using ControleProjetos.Data.Dtos.ProjetoDto;
 using ControleProjetos.Models;
 
 namespace ControleProjetos.Data.Dtos.ColaboradoresProjetosDto

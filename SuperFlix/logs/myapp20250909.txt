@@ -1,0 +1,35 @@
+2025-09-09 09:38:30.542 -03:00 [INF] User profile is available. Using 'C:\Users\andre.brandao\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-09 09:38:31.061 -03:00 [INF] Now listening on: https://localhost:7223
+2025-09-09 09:38:31.068 -03:00 [INF] Now listening on: http://localhost:5210
+2025-09-09 09:38:31.169 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-09 09:38:31.173 -03:00 [INF] Hosting environment: Development
+2025-09-09 09:38:31.176 -03:00 [INF] Content root path: C:\Repos\SuperFlix\SuperFlix
+2025-09-09 09:38:31.961 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-09 09:38:31.963 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/_vs/browserLink - null null
+2025-09-09 09:38:31.981 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/_framework/aspnetcore-browser-refresh.js - 200 16517 application/javascript; charset=utf-8 21.9149ms
+2025-09-09 09:38:32.095 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/_vs/browserLink - 200 null text/javascript; charset=UTF-8 132.7394ms
+2025-09-09 09:38:32.135 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/swagger/v1/swagger.json - null null
+2025-09-09 09:38:32.267 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 132.2572ms
+2025-09-09 09:39:07.822 -03:00 [INF] User profile is available. Using 'C:\Users\andre.brandao\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-09 09:39:08.121 -03:00 [INF] Now listening on: https://localhost:7223
+2025-09-09 09:39:08.126 -03:00 [INF] Now listening on: http://localhost:5210
+2025-09-09 09:39:08.179 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-09 09:39:08.182 -03:00 [INF] Hosting environment: Development
+2025-09-09 09:39:08.184 -03:00 [INF] Content root path: C:\Repos\SuperFlix\SuperFlix
+2025-09-09 09:39:08.559 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/swagger/index.html - null null
+2025-09-09 09:39:08.691 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/swagger/index.html - 200 null text/html;charset=utf-8 132.7776ms
+2025-09-09 09:39:08.716 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/_vs/browserLink - null null
+2025-09-09 09:39:08.716 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-09 09:39:08.735 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/_framework/aspnetcore-browser-refresh.js - 200 16517 application/javascript; charset=utf-8 19.0478ms
+2025-09-09 09:39:08.755 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/_vs/browserLink - 200 null text/javascript; charset=UTF-8 38.6392ms
+2025-09-09 09:39:08.803 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/swagger/v1/swagger.json - null null
+2025-09-09 09:39:08.834 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 30.8417ms
+2025-09-09 09:39:53.649 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/Colaboradores - null null
+2025-09-09 09:39:53.808 -03:00 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin)
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin)
+2025-09-09 09:39:53.840 -03:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2025-09-09 09:39:53.851 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/Colaboradores - 302 0 null 201.9411ms
+2025-09-09 09:39:53.860 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/Account/Login?ReturnUrl=%2FColaboradores - null null
+2025-09-09 09:39:53.890 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/Account/Login?ReturnUrl=%2FColaboradores - 404 0 null 30.8508ms
+2025-09-09 09:39:53.912 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7223/Account/Login, Response status code: 404

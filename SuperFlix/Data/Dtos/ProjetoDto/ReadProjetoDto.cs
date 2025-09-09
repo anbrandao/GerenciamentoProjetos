@@ -1,7 +1,7 @@
 ﻿using ControleProjetos.Data.Dtos.ColaboradoresProjetosDto;
 using System.ComponentModel.DataAnnotations;
 
-namespace ControleProjetos.Data.Dtos.FilmeDto
+namespace ControleProjetos.Data.Dtos.ProjetoDto
 {
     public class ReadProjetoDto
     {

@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using ControleProjetos.Repositories.Contracts;
-using ControleProjetos.Data;
+using ControleProjetos.Infraestrutura;
 
 namespace ControleProjetos.Repositories.Repository
 {
@@ -8,9 +8,12 @@ namespace ControleProjetos.Repositories.Repository
     {
         protected readonly AppDbContext _context;
 
+        protected readonly DbSet<T> _dbSet;
+
         public GenericRepository(AppDbContext context)
         {
             _context = context;
+            _dbSet = _context.Set<T>();
         }
 
         public async Task<T> AddAsync(T entity)
@@ -23,7 +26,7 @@ namespace ControleProjetos.Repositories.Repository
         public async Task DeleteAsync(int id)
         {
             var entity = await GetAsync(id);
-            _context.Set<T>().Remove(entity);
+            _dbSet.Remove(entity);
             await _context.SaveChangesAsync();
         }
 
@@ -42,12 +45,12 @@ namespace ControleProjetos.Repositories.Repository
 
         public async Task<ICollection<T>> GetAllAsync()
         {
-            return await _context.Set<T>().ToListAsync();
+            return await _dbSet.ToListAsync();
         }
 
         public async Task<T> GetAsync(int id)
         {
-            var result = await _context.Set<T>().FindAsync(id);
+            var result = await _dbSet.FindAsync(id);
             return result;
         }
 

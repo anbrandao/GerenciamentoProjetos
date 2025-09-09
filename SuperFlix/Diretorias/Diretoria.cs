@@ -1,6 +1,7 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using ControleProjetos.Colaboradores;
+using System.ComponentModel.DataAnnotations;
 
-namespace ControleProjetos.Models
+namespace ControleProjetos.Diretorias
 {
     public class Diretoria
     {
@@ -14,7 +15,6 @@ namespace ControleProjetos.Models
         }
 
         [Key]
-        [Required]
         public int Id { get; set; }
         public string Nome { get; set; }
         public virtual ICollection<Colaborador> Colaboradores { get; set; } = [];

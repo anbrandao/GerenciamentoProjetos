@@ -1,10 +1,9 @@
 ﻿using AutoMapper;
-using ControleProjetos.Data.Dtos.FilmeDto;
-using ControleProjetos.Models;
+using ControleProjetos.Data.Dtos.ProjetoDto;
 using ControleProjetos.Repositories.Contracts;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ControleProjetos.Controllers
+namespace ControleProjetos.Projetos
 {
     [ApiController]
     [Route("[Controller]")]

@@ -1,5 +1,5 @@
-﻿using ControleProjetos.Models;
-using ControleProjetos.Repositories.Contracts;
+﻿using ControleProjetos.Colaboradores;
+using ControleProjetos.Projetos;
 
 namespace ControleProjetos.Repositories.Contracts
 {

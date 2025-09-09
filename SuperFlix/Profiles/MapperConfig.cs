@@ -1,9 +1,15 @@
 ﻿using AutoMapper;
+using ControleProjetos.Colaboradores;
 using ControleProjetos.Data.Dtos.ColaboradorDto;
 using ControleProjetos.Data.Dtos.ColaboradoresProjetosDto;
 using ControleProjetos.Data.Dtos.DiretoriaDto;
-using ControleProjetos.Data.Dtos.FilmeDto;
+using ControleProjetos.Data.Dtos.ProjetoDto;
+using ControleProjetos.Data.Dtos.UsuarioDto;
+using ControleProjetos.Diretorias;
 using ControleProjetos.Models;
+using ControleProjetos.Projetos;
+using ControleProjetos.Usuarios;
+
 
 
 namespace ControleProjetos.Profiles
@@ -34,6 +40,8 @@ namespace ControleProjetos.Profiles
 
             CreateMap<ColaboradoresProjetos, ReadColaboradoresProjetosDto>().ReverseMap();
             CreateMap<ColaboradoresProjetos, CreateColaboradoresProjetosDto>().ReverseMap();
+
+            CreateMap<CreateUsuarioDto, Usuario>().ReverseMap();
         }
     }
 }

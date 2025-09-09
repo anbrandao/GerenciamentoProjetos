@@ -1,5 +1,6 @@
-﻿using ControleProjetos.Data.Dtos.ColaboradorDto;
-using ControleProjetos.Models;
+﻿using ControleProjetos.Colaboradores;
+using ControleProjetos.Data.Dtos.ColaboradorDto;
+using ControleProjetos.Diretorias;
 using ControleProjetos.Repositories.Contracts;
 
 namespace ControleProjetos.Repositories.Contracts

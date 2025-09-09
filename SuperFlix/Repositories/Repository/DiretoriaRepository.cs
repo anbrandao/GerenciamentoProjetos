@@ -1,9 +1,7 @@
-﻿using ControleProjetos.Data;
-using ControleProjetos.Data.Dtos.ColaboradorDto;
-using ControleProjetos.Data.Dtos.DiretoriaDto;
-using ControleProjetos.Models;
+﻿using ControleProjetos.Colaboradores;
+using ControleProjetos.Diretorias;
+using ControleProjetos.Infraestrutura;
 using ControleProjetos.Repositories.Contracts;
-using ControleProjetos.Repositories.Repository;
 using Microsoft.EntityFrameworkCore;
 
 namespace ControleProjetos.Repositories.Repository

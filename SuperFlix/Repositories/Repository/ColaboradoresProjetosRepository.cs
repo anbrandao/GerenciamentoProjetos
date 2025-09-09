@@ -1,4 +1,4 @@
-﻿using ControleProjetos.Data;
+﻿using ControleProjetos.Infraestrutura;
 using ControleProjetos.Models;
 using ControleProjetos.Repositories.Contracts;
 using ControleProjetos.Repositories.Repository;

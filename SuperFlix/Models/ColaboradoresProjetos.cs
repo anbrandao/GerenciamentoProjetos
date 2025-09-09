@@ -1,4 +1,7 @@
-﻿namespace ControleProjetos.Models
+﻿using ControleProjetos.Colaboradores;
+using ControleProjetos.Projetos;
+
+namespace ControleProjetos.Models
 {
     public class ColaboradoresProjetos
     {

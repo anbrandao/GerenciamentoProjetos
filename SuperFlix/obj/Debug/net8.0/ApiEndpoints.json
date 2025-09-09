@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "ControleColaboradores.Controllers.ColaboradoresController",
+    "ContainingType": "ControleProjetos.Colaboradores.ColaboradoresController",
     "Method": "GetColaboradores",
     "RelativePath": "Colaboradores",
     "HttpMethod": "GET",
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "ContainingType": "ControleColaboradores.Controllers.ColaboradoresController",
+    "ContainingType": "ControleProjetos.Colaboradores.ColaboradoresController",
     "Method": "PostFilme",
     "RelativePath": "Colaboradores",
     "HttpMethod": "POST",
@@ -36,7 +36,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ControleColaboradores.Controllers.ColaboradoresController",
+    "ContainingType": "ControleProjetos.Colaboradores.ColaboradoresController",
     "Method": "GetColaborador",
     "RelativePath": "Colaboradores/{id}",
     "HttpMethod": "GET",
@@ -52,7 +52,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ControleColaboradores.Controllers.ColaboradoresController",
+    "ContainingType": "ControleProjetos.Colaboradores.ColaboradoresController",
     "Method": "DeleteFilme",
     "RelativePath": "Colaboradores/{id}",
     "HttpMethod": "DELETE",
@@ -68,7 +68,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ControleColaboradores.Controllers.ColaboradoresController",
+    "ContainingType": "ControleProjetos.Colaboradores.ColaboradoresController",
     "Method": "GetDetalhesDoProjeto",
     "RelativePath": "Colaboradores/colaborador/detalhe/{id}",
     "HttpMethod": "GET",
@@ -84,7 +84,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ControleColaboradores.Controllers.ColaboradoresController",
+    "ContainingType": "ControleProjetos.Colaboradores.ColaboradoresController",
     "Method": "GetProjetosDosColaborador",
     "RelativePath": "Colaboradores/colaborador/projetos/{id}",
     "HttpMethod": "GET",
@@ -178,7 +178,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ControleProjetos.Controllers.DiretoriasController",
+    "ContainingType": "ControleProjetos.Diretorias.DiretoriasController",
     "Method": "GetDiretorias",
     "RelativePath": "Diretorias",
     "HttpMethod": "GET",
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "ContainingType": "ControleProjetos.Controllers.DiretoriasController",
+    "ContainingType": "ControleProjetos.Diretorias.DiretoriasController",
     "Method": "PostDiretoria",
     "RelativePath": "Diretorias",
     "HttpMethod": "POST",
@@ -214,7 +214,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ControleProjetos.Controllers.DiretoriasController",
+    "ContainingType": "ControleProjetos.Diretorias.DiretoriasController",
     "Method": "GetDiretoria",
     "RelativePath": "Diretorias/{id}",
     "HttpMethod": "GET",
@@ -230,7 +230,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ControleProjetos.Controllers.DiretoriasController",
+    "ContainingType": "ControleProjetos.Diretorias.DiretoriasController",
     "Method": "DeleteDiretoria",
     "RelativePath": "Diretorias/{id}",
     "HttpMethod": "DELETE",
@@ -246,7 +246,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ControleProjetos.Controllers.DiretoriasController",
+    "ContainingType": "ControleProjetos.Diretorias.DiretoriasController",
     "Method": "GetColaboradoresDaDiretoria",
     "RelativePath": "Diretorias/diretoria/colaboradoresDaDiretoria/{id}",
     "HttpMethod": "GET",
@@ -262,7 +262,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ControleProjetos.Controllers.DiretoriasController",
+    "ContainingType": "ControleProjetos.Diretorias.DiretoriasController",
     "Method": "GetDetalhesDaDiretoria",
     "RelativePath": "Diretorias/diretoria/detalhes/{id}",
     "HttpMethod": "GET",
@@ -278,7 +278,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ControleProjetos.Controllers.ProjetosController",
+    "ContainingType": "ControleProjetos.Projetos.ProjetosController",
     "Method": "GetProjetos",
     "RelativePath": "Projetos",
     "HttpMethod": "GET",
@@ -287,7 +287,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.ICollection\u00601[[ControleProjetos.Data.Dtos.FilmeDto.ReadProjetoDto, ControleProjetos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.ICollection\u00601[[ControleProjetos.Data.Dtos.ProjetoDto.ReadProjetoDto, ControleProjetos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -298,7 +298,7 @@
     ]
   },
   {
-    "ContainingType": "ControleProjetos.Controllers.ProjetosController",
+    "ContainingType": "ControleProjetos.Projetos.ProjetosController",
     "Method": "PostFilme",
     "RelativePath": "Projetos",
     "HttpMethod": "POST",
@@ -307,14 +307,14 @@
     "Parameters": [
       {
         "Name": "createProjetoDto",
-        "Type": "ControleProjetos.Data.Dtos.FilmeDto.CreateProjetoDto",
+        "Type": "ControleProjetos.Data.Dtos.ProjetoDto.CreateProjetoDto",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ControleProjetos.Controllers.ProjetosController",
+    "ContainingType": "ControleProjetos.Projetos.ProjetosController",
     "Method": "GetFilme",
     "RelativePath": "Projetos/{id}",
     "HttpMethod": "GET",
@@ -330,7 +330,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ControleProjetos.Controllers.ProjetosController",
+    "ContainingType": "ControleProjetos.Projetos.ProjetosController",
     "Method": "DeleteFilme",
     "RelativePath": "Projetos/{id}",
     "HttpMethod": "DELETE",
@@ -346,7 +346,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ControleProjetos.Controllers.ProjetosController",
+    "ContainingType": "ControleProjetos.Projetos.ProjetosController",
     "Method": "GetDetalhesDoProjeto",
     "RelativePath": "Projetos/projeto/detalhe/{id}",
     "HttpMethod": "GET",
@@ -356,6 +356,38 @@
       {
         "Name": "id",
         "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleProjetos.Usuarios.UsuarioController",
+    "Method": "CadastraUsuario",
+    "RelativePath": "Usuario/cadastro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createUsuarioDto",
+        "Type": "ControleProjetos.Data.Dtos.UsuarioDto.CreateUsuarioDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleProjetos.Usuarios.UsuarioController",
+    "Method": "Login",
+    "RelativePath": "Usuario/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginUsuarioDto",
+        "Type": "ControleProjetos.Data.Dtos.UsuarioDto.LoginUsuarioDto",
         "IsRequired": true
       }
     ],

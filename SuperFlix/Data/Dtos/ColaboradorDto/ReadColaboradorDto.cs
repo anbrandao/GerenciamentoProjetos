@@ -2,6 +2,7 @@
 using ControleProjetos.Data.Dtos.DiretoriaDto;
 using ControleProjetos.Models;
 using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
 
 namespace ControleProjetos.Data.Dtos.ColaboradorDto
 {
@@ -10,6 +11,7 @@ namespace ControleProjetos.Data.Dtos.ColaboradorDto
     {
         [Key]
         public int Id { get; set; }
+        [JsonPropertyName("NomeJSONTeste")]
         public string Nome { get; set; }
         public int DiretoriaId { get; set; }
 
