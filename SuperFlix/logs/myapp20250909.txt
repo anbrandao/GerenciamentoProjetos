@@ -69,3 +69,41 @@ RolesAuthorizationRequirement:User.IsInRole must be true for one of the followin
 2025-09-09 15:58:27.503 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/_vs/browserLink - 200 null text/javascript; charset=UTF-8 265.4123ms
 2025-09-09 15:58:27.623 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/swagger/v1/swagger.json - null null
 2025-09-09 15:58:27.762 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 138.2892ms
+2025-09-09 16:03:01.983 -03:00 [INF] User profile is available. Using 'C:\Users\andre.brandao\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-09 16:03:02.226 -03:00 [INF] Now listening on: https://localhost:7223
+2025-09-09 16:03:02.239 -03:00 [INF] Now listening on: http://localhost:5210
+2025-09-09 16:03:02.326 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-09 16:03:02.330 -03:00 [INF] Hosting environment: Development
+2025-09-09 16:03:02.334 -03:00 [INF] Content root path: C:\Repos\SuperFlix\SuperFlix
+2025-09-09 16:03:02.681 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-09 16:03:02.733 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/_vs/browserLink - null null
+2025-09-09 16:03:02.841 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/_framework/aspnetcore-browser-refresh.js - 200 16517 application/javascript; charset=utf-8 161.2054ms
+2025-09-09 16:03:02.990 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/_vs/browserLink - 200 null text/javascript; charset=UTF-8 256.572ms
+2025-09-09 16:03:03.081 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/swagger/v1/swagger.json - null null
+2025-09-09 16:03:03.158 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 77.1648ms
+2025-09-09 16:05:41.686 -03:00 [INF] User profile is available. Using 'C:\Users\andre.brandao\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-09 16:05:41.914 -03:00 [INF] Now listening on: https://localhost:7223
+2025-09-09 16:05:41.917 -03:00 [INF] Now listening on: http://localhost:5210
+2025-09-09 16:05:41.987 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-09 16:05:41.990 -03:00 [INF] Hosting environment: Development
+2025-09-09 16:05:41.992 -03:00 [INF] Content root path: C:\Repos\SuperFlix\SuperFlix
+2025-09-09 16:05:42.360 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-09 16:05:42.380 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/_vs/browserLink - null null
+2025-09-09 16:05:42.408 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/_framework/aspnetcore-browser-refresh.js - 200 16517 application/javascript; charset=utf-8 49.9549ms
+2025-09-09 16:05:42.640 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/_vs/browserLink - 200 null text/javascript; charset=UTF-8 259.8769ms
+2025-09-09 16:05:42.697 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/swagger/v1/swagger.json - null null
+2025-09-09 16:05:42.791 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 93.9457ms
+2025-09-09 16:07:27.308 -03:00 [INF] User profile is available. Using 'C:\Users\andre.brandao\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-09 16:07:27.621 -03:00 [INF] Now listening on: https://localhost:7223
+2025-09-09 16:07:27.625 -03:00 [INF] Now listening on: http://localhost:5210
+2025-09-09 16:07:27.795 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-09 16:07:27.802 -03:00 [INF] Hosting environment: Development
+2025-09-09 16:07:27.806 -03:00 [INF] Content root path: C:\Repos\SuperFlix\SuperFlix
+2025-09-09 16:07:27.955 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/swagger/index.html - null null
+2025-09-09 16:07:28.237 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/swagger/index.html - 200 null text/html;charset=utf-8 284.3703ms
+2025-09-09 16:07:28.344 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/_vs/browserLink - null null
+2025-09-09 16:07:28.344 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-09 16:07:28.374 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/_framework/aspnetcore-browser-refresh.js - 200 16517 application/javascript; charset=utf-8 29.324ms
+2025-09-09 16:07:28.391 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/_vs/browserLink - 200 null text/javascript; charset=UTF-8 46.934ms
+2025-09-09 16:07:29.085 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/swagger/v1/swagger.json - null null
+2025-09-09 16:07:29.115 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 30.1001ms
