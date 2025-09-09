@@ -660,11 +660,11 @@
       "CreateColaboradorDto": {
         "required": [
           "diretoriaId",
-          "NomeJSONTeste"
+          "nome"
         ],
         "type": "object",
         "properties": {
-          "NomeJSONTeste": {
+          "nome": {
             "minLength": 1,
             "type": "string"
           },
@@ -783,7 +783,7 @@
             "type": "integer",
             "format": "int32"
           },
-          "nome": {
+          "NomeJSONTeste": {
             "type": "string",
             "nullable": true
           },
