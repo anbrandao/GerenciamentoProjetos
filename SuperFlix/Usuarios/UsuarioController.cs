@@ -1,6 +1,4 @@
-﻿using AutoMapper;
-using ControleProjetos.Data.Dtos.UsuarioDto;
-using Microsoft.AspNetCore.Identity;
+﻿using ControleProjetos.Data.Dtos.UsuarioDto;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ControleProjetos.Usuarios

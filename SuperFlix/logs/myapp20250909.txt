@@ -33,3 +33,15 @@ RolesAuthorizationRequirement:User.IsInRole must be true for one of the followin
 2025-09-09 09:39:53.860 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/Account/Login?ReturnUrl=%2FColaboradores - null null
 2025-09-09 09:39:53.890 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/Account/Login?ReturnUrl=%2FColaboradores - 404 0 null 30.8508ms
 2025-09-09 09:39:53.912 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7223/Account/Login, Response status code: 404
+2025-09-09 15:04:23.353 -03:00 [INF] User profile is available. Using 'C:\Users\andre.brandao\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-09 15:04:23.616 -03:00 [INF] Now listening on: https://localhost:7223
+2025-09-09 15:04:23.621 -03:00 [INF] Now listening on: http://localhost:5210
+2025-09-09 15:04:23.672 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-09 15:04:23.673 -03:00 [INF] Hosting environment: Development
+2025-09-09 15:04:23.674 -03:00 [INF] Content root path: C:\Repos\SuperFlix\SuperFlix
+2025-09-09 15:04:24.216 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-09 15:04:24.233 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/_framework/aspnetcore-browser-refresh.js - 200 16517 application/javascript; charset=utf-8 18.1438ms
+2025-09-09 15:04:24.240 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/_vs/browserLink - null null
+2025-09-09 15:04:24.284 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/_vs/browserLink - 200 null text/javascript; charset=UTF-8 43.9061ms
+2025-09-09 15:04:24.310 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7223/swagger/v1/swagger.json - null null
+2025-09-09 15:04:24.340 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7223/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 30.2437ms
