@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Repos\\SuperFlix\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\SuperFlix\\SuperFlix\\obj\\Debug\\net8.0\\ControleProjetos.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperFlix\\obj\\Debug\\net8.0\\ControleProjetos.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|c:\\repos\\superflix\\superflix\\usuarios\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8344BB63-1C41-4DE8-839E-1070985DBF15}|SuperFlix\\ControleProjetos.csproj|solutionrelative:superflix\\usuarios\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ControleProjetos.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\obj\\Debug\\net8.0\\ControleProjetos.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "SuperFlix\\obj\\Debug\\net8.0\\ControleProjetos.AssemblyInfo.cs",
+              "ToolTip": "C:\\Repos\\SuperFlix\\SuperFlix\\obj\\Debug\\net8.0\\ControleProjetos.AssemblyInfo.cs",
+              "RelativeToolTip": "SuperFlix\\obj\\Debug\\net8.0\\ControleProjetos.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T18:44:28.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Usuarios\\Usuario.cs",
               "RelativeDocumentMoniker": "SuperFlix\\Usuarios\\Usuario.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Usuarios\\TokenService.cs",
               "RelativeDocumentMoniker": "SuperFlix\\Usuarios\\TokenService.cs",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ExceptionMidlleware.cs",
               "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Usuarios\\ExceptionMidlleware.cs",
               "RelativeDocumentMoniker": "SuperFlix\\Usuarios\\ExceptionMidlleware.cs",
@@ -79,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CreateColaboradorDto.cs",
               "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Data\\Dtos\\ColaboradorDto\\CreateColaboradorDto.cs",
               "RelativeDocumentMoniker": "SuperFlix\\Data\\Dtos\\ColaboradorDto\\CreateColaboradorDto.cs",
@@ -91,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Colaborador.cs",
               "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Colaboradores\\Colaborador.cs",
               "RelativeDocumentMoniker": "SuperFlix\\Colaboradores\\Colaborador.cs",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ColaboradoresController.cs",
               "DocumentMoniker": "C:\\Repos\\SuperFlix\\SuperFlix\\Colaboradores\\ColaboradoresController.cs",
               "RelativeDocumentMoniker": "SuperFlix\\Colaboradores\\ColaboradoresController.cs",
